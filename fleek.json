@@ -1,0 +1,6 @@
+{
+  "id": "cli4z4mll0000mg0884fahpbc",
+  "name": "push-template",
+  "distDir": "dist",
+  "buildCommand": "pnpm run build"
+}
